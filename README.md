@@ -11,7 +11,7 @@ This project is a **Weather Station Landing Page** designed entirely in **Figma*
 
 ## How to View the Design
 1. Open the **PNG file** in this repository to view the landing page design.
-   - ![Weather Station Landing Page](Weather Station Landing Page.png)  
+   - ![Weather Station Landing Page] (Weather Station Landing Page.png)  
 2. You can zoom in for a more detailed view of the design.
 
 ## Future Plans
@@ -23,8 +23,6 @@ This project is a **Weather Station Landing Page** designed entirely in **Figma*
 2. Create a new branch to add features or suggestions.
 3. **Submit a pull request** with your changes.
 
-## License
-This design is shared under the **[Your License Name]** License. For more details, see the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 - Special thanks to **Figma** for providing an excellent design tool.
